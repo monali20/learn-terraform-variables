@@ -1,5 +1,5 @@
 terraform {
-/*  cloud {
+ /* cloud {
     organization = "policy-as-code-training"
     workspaces {
       name = "tf-vault-qa-mp"
